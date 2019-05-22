@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col py-3">
-                        <p class="text-center">fuadps &copy; 2019</i></p>
+                        <p class="text-center">Copyright &copy; fuadps 2019</i></p>
                     </div>
                 </div>
             </div>
